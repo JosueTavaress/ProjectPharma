@@ -1,0 +1,4 @@
+# GOALS
+
+ - [x] CONFIGURE AMBIENT WITH TS
+ - 
